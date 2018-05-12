@@ -7,7 +7,6 @@ value = nil
 name_hash.collect { |k, v|
 if value == nil || v < value
   key = k
-  value = v
-}
+  value = v }
 key
 end
