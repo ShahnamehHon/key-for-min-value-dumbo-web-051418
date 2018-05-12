@@ -10,4 +10,3 @@ if value == nil || v < value
   value = v
 end
 key
-end
