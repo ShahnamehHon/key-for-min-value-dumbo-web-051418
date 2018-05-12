@@ -9,6 +9,5 @@ if value == nil || v < value
   key = k
   value = v
 }
-end
 key
 end
