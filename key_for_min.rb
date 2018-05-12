@@ -8,6 +8,7 @@ name_hash.collect do |k, v|
 if value == nil || v < value
   key = k
   value = v
+  }
 end
 key
 end
